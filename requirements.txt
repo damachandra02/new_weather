@@ -2,6 +2,7 @@ dash
 geopandas
 numpy
 pandas
+dash-tools
 xarray
 gunicorn
-dash-tools
+
